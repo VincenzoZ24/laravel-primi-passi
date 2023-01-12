@@ -87,7 +87,6 @@ $titolo = 'Hello World';
                 <div class="title m-b-md">
                     <h1>{{$titolo}}</h1>
                 </div>
-
             
             </div>
         </div>
